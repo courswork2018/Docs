@@ -1,0 +1,3 @@
+Репозиторий автоматизированной системы https://github.com/courswork2018/Site
+Репозиторий документов https://github.com/courswork2018/Docs
+Репозиторий файлов тестировщика https://github.com/courswork2018/DataSet
